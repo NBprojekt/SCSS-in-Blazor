@@ -4,7 +4,7 @@
   "description": "Getting started with SCSS in Blazor",
   "main": "index.js",
   "scripts": {
-    "scss-compiler": "./node_modules/.bin/node-sass",
+    "sass-compiler": "./node_modules/.bin/node-sass",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

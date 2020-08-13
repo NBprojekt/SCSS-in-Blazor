@@ -6,6 +6,6 @@
   </PropertyGroup>
 
   <Target Name="PreBuild" BeforeTargets="PreBuildEvent">
-    <Exec Command="npm run scss-compiler --  ./SCSS-in-Blazor/ -o ./SCSS-in-Blazor/" />
+    <Exec Command="npm run sass-compiler --  ./SCSS-in-Blazor/ -o ./SCSS-in-Blazor/" />
   </Target>
 </Project>
