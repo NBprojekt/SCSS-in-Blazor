@@ -5,4 +5,7 @@
     <RootNamespace>SCSS_in_Blazor</RootNamespace>
   </PropertyGroup>
 
+  <Target Name="PreBuild" BeforeTargets="PreBuildEvent">
+    <Exec Command="npm run scss-compiler --  ./SCSS-in-Blazor/ -o ./SCSS-in-Blazor/" />
+  </Target>
 </Project>
