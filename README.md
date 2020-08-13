@@ -1,6 +1,9 @@
 <p align="center">
-  <a href="https://github.com/NBprojekt/SCSS-in-Blazor">
-    <img src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" width="200">
+  <a href="https://sass-lang.com/">
+    <img align="center" src="https://user-images.githubusercontent.com/24683383/90129637-49578b00-dd69-11ea-9cac-84f65adaa45d.png" width="200">
+  </a>
+  <a href="https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor">
+    <img align="center" src="https://user-images.githubusercontent.com/24683383/90129570-2b8a2600-dd69-11ea-9a35-52a508451718.png" width="200">
   </a>
 </p> 
 
