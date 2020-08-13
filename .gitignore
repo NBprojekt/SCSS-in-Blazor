@@ -17,6 +17,10 @@ x64/
 # Node
 **/node_modules/
 
+# CSS
+**/*.css
+!**/wwwroot/*.css
+
 # MSTest test Results
 [Tt]est[Rr]esult*/
 [Bb]uild[Ll]og.*
