@@ -1,0 +1,20 @@
+{
+  "name": "SCSS-in-Blazor",
+  "version": "1.0.0",
+  "description": "Getting started with SCSS in Blazor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NBprojekt/SCSS-in-Blazor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NBprojekt/SCSS-in-Blazor/issues"
+  },
+  "homepage": "https://github.com/NBprojekt/SCSS-in-Blazor#readme"
+}
