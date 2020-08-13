@@ -24,10 +24,8 @@
 <p align="center">
   <a href="#description"> Description </a> &bull;
   <a href="#pre-requirements"> Pre requirements </a> &bull;
-  <a href="#set-up-scss"> Set up SCSS </a> &bull;
-  <a href="#development"> Development </a> &bull;
-  <a href="#deployment"> Deployment </a> &bull;
-  <a href="#maintainer"> Maintainer </a> 
+  <a href="#set-up-compiler"> Set up Compiler </a> &bull;
+  <a href="#blazor-css-isolation"> Blazor CSS isolation </a>
 </p>
 
 <hr>
@@ -87,6 +85,9 @@ npm i node-sass --save-dev
 ```
 
 Now your done when you create an SCSS file and Build the project Visual Studio will automaticaly compile your SCSS or SASS files and build the Blazor app.
+
+### Blazor CSS isolation
+Comming soon in [DotNet 5.0](https://dotnet.microsoft.com/download/dotnet/5.0)
 
 [dotnetCoreDownload]: https://dotnet.microsoft.com/download/dotnet-core 
 [cleanBlazorProject]: https://github.com/NBprojekt/SCSS-in-Blazor/tree/ab66f0498c016bbb2294371f0dbe2f00f5c8770c
