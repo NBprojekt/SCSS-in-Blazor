@@ -33,8 +33,7 @@
 
 <hr>
 
-> **Node: Every step in this repo works for SCSS and SASS the same, the only small change is the file extension**  
-> I personaly prefer SCSS therefore ...
+> **Node: Every step in this repo works for SCSS and SASS the same, there is no difference**  
 
 ### Description
 
