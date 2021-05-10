@@ -5,13 +5,13 @@ updates:
   schedule:
     interval: daily
     time: "04:00"
-  open-pull-requests-limit: 3
+  open-pull-requests-limit: 0
 - package-ecosystem: npm
   directory: "/"
   schedule:
     interval: daily
     time: "04:00"
-  open-pull-requests-limit: 3
+  open-pull-requests-limit: 0
   reviewers:
   - nbprojekt
   assignees:
